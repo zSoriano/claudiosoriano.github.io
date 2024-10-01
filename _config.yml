@@ -1,0 +1,29 @@
+title: Leticia da Luz # your name here
+logo: "/Foto_perfil/foto_perfil.jpg" # your photo here
+
+description:
+  <p align="center">
+  <a href="https://www.linkedin.com/in/leticiadluz/">LinkedIn</a> |
+  <a href="https://leticiadluz.github.io/">Portfólio</a> |
+  <a href="https://github.com/leticiadluz">GitHub</a> |
+  <a href="mailto:leticiadluz@gmail.com">E-mail</a>
+  </p>
+  
+  <p align="center">
+   Olá, este é o meu portfólio de projetos.
+   Aqui, apresento minhas habilidades na resolução de problemas de negócios por meio de Análise de Dados, 
+   Estatística e Machine Learning.
+   
+   </p>
+   <p align="center">
+   <a href="#projetos-ml">Projetos de Machine Learning</a> <br>
+   <a href="#projetos-analise">؜؜Projetos de Análise de Dados</a> <br>
+   <a href="#projetos-estatistica">Estatística para Análise de Dados</a> <br>
+   <a href="#ml-processamento">Processamento de Dados para ML</a> <br>
+   <a href="#projetos-estimadores">Estimadores em Machine Learning</a>
+   </p> 
+   </p>
+   <p align="center">
+   <br><br>
+   </p>
+theme: jekyll-theme-minimal
