@@ -50,7 +50,7 @@ Para acessar os certificados, basta clicar [aqui](https://github.com/zSoriano/ce
 
 Entre em contato comigo por meio de:  
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](www.linkedin.com/in/claudio-soriano-70a754124) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">](www.linkedin.com/in/claudio-soriano1) 
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">](claudio.cordeiro@ufv.br) 
 
 
