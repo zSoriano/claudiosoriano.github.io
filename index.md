@@ -44,7 +44,7 @@ Hoje, meu objetivo fazer é superar desafios na tomada de decisões aonde eu est
 
 ---
 ## Certificados
-Para acessar os certificados, basta clicar [aqui](https://github.com/leticiadluz/Certificados/tree/main)
+Para acessar os certificados, basta clicar [aqui](https://github.com/zSoriano/certificados)
 
 ---
 
