@@ -15,8 +15,8 @@ Hoje, meu objetivo fazer é superar desafios na tomada de decisões aonde eu est
 
 ## Projetos de Análise Climática <a name="projetos-ac"></a>
 
-### Previsão de Câncer de Pulmão com R e Deploy na AWS ECS
-![image](https://github.com/user-attachments/assets/3c43007e-7d45-4ef2-8101-15508083c055)
+### Como fatores climáticos e agrícolas afetam a produtividade da cana-de-açúcar?
+![image](https://github.com/zSoriano/claudiosoriano.github.io/Extras/dados-agronegocio.jpg)
 
 **Contexto:** Este projeto visa analisar dados climáticos com intuito de verificar as tendências nos índices de precipitação e temperatura para a região dos Tabuleiros Costeiros de Alagoas através do teste não paramétrico de Mann-Kendall e a curvatura de Sen.
 
