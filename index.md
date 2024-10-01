@@ -44,7 +44,7 @@ Hoje, meu objetivo fazer é superar desafios na tomada de decisões aonde eu est
 
 ---
 ## Certificados
-Para acessar os certificados, basta clicar [aqui](https://www.linkedin.com/in/claudio-soriano1/)
+Para acessar os certificados, basta clicar [aqui](https://github.com/zSoriano/certificados)
 
 ---
 
